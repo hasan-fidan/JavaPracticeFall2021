@@ -26,4 +26,6 @@ aşağıdaki kod blogunun çıktısı ne olur?
 // C) x = 9
 //    i = 0
 
+    
+    
 }
